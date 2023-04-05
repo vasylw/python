@@ -49,8 +49,8 @@ def day_of_year(year, month, day):
 print("Day of year:", day_of_year(2000, 4, 1))
 
 
-#year = int(input("Type a year, for checking:"))
-#month = int(input("Type a month number, for days checking:"))
+# year = int(input("Type a year, for checking:"))
+# month = int(input("Type a month number, for days checking:"))
 
 #print ("Days in month " + str(month) + " of year " + str(year)+ " are " + str(days_in_month(year, month)))
 
